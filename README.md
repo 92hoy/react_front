@@ -8,3 +8,5 @@ set
 - <code>git clone https://github.com/92hoy/react_front.git</code>
 - <code>yarn install</code>
 - <code>yarn start</code>
+- http://localhost:3000/
+
