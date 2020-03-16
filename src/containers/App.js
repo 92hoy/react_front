@@ -24,7 +24,6 @@ function Home() {
     
     <header className="App-header">
       <Header/>
-    
       이 기기의 IP주소는 {ip}입니다.
     </header>
   );
